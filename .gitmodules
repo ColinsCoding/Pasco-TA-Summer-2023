@@ -1,0 +1,6 @@
+[submodule "pasco_python_examples"]
+	path = pasco_python_examples
+	url = https://github.com/PASCOscientific/pasco_python_examples.git
+[submodule "pasco_python"]
+	path = pasco_python
+	url = https://github.com/PASCOscientific/pasco_python.git
