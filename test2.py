@@ -17,5 +17,6 @@ def animate(i):
             yar.append(int(y))
     ax1.clear()
     ax1.plot(xar,yar)
+    
 ani = animation.FuncAnimation(fig, animate, interval=1000)
 plt.show()

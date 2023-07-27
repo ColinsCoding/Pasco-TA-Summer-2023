@@ -1,0 +1,232 @@
+Directories with .docx files:
+/Users/colincasey/Dropbox/Phys 431/431 Labs
+/Users/colincasey/Dropbox/Phys 431/431 Labs/ZZZ Spectra stuff for Emission Lab
+/Users/colincasey/Dropbox/Phys 431/431 Labs Online
+/Users/colincasey/Dropbox/Phys 350/350 Labs Online
+/Users/colincasey/Dropbox/Phys 350/350 Labs rewrite - DO NOT USE
+/Users/colincasey/Dropbox/Phys 350/350 Labs CC
+/Users/colincasey/Dropbox/Phys 350/350 Labs
+/Users/colincasey/Dropbox/Phys 360/360 Online Labs
+/Users/colincasey/Dropbox/Phys 360/360 Labs to rewrite - DO NOT USE
+/Users/colincasey/Dropbox/Phys 360/360 Labs Revised
+/Users/colincasey/Dropbox/Phys 421/421 Online labs
+/Users/colincasey/Dropbox/Phys 421/421 Labs
+/Users/colincasey/Dropbox/Phys 411/411 Labs Revised
+/Users/colincasey/Dropbox/Phys 411/411 Labs Online
+/Users/colincasey/Dropbox/Phys 411/411 Labs to sort
+
+Detailed list of .docx files:
+Directory: /Users/colincasey/Dropbox/Phys 431/431 Labs
+	431.Lab.GasLaws.Short.docx
+	431.Lab.HarmonicsSound.Online.docx
+	431.Lab.AmateurOptometry.docx
+	431.Lab.GasLaws.docx
+	431.Lab.NuclearDecay.new.docx
+	431.Lab.DiffractionInterference.docx
+	431.Lab.HeatEngine.docx
+	431.Lab.WavesOnString.Online.docx
+	431.Lab.ExponentialDecay.docx
+	431.Lab.HeatEngine (Daria Eiteneer's conflicted copy 2019-08-07).docx
+	431.Lab.PolarizationColorsLight.docx
+	431.Lab.EmissionSpectra.docx
+	431.Lab.StandingWaves.docx
+	Heat Engine Cycles 2011working.docx
+	431.Lab.OpticalInstruments.docx
+	431.Lab.NuclearPhysics.docx
+	360.Lab11.Telescope.Optometry copy 2.docx
+	431.Lab.PropagationofLight.ColorsofLight.docx
+	431.Lab.MirrorsLenses.docx
+	Diffraction Grating.docx
+	Polarization Lab Setup Instructions.docx
+	431.Lab.Optometry.docx
+	431.Lab.Calorimetry.docx
+	431.Lab.HarmonicsSound.docx
+	431.Lab.PropagationofLight.docx
+Directory: /Users/colincasey/Dropbox/Phys 431/431 Labs/ZZZ Spectra stuff for Emission Lab
+	EX-5546B Atomic Spectra.docx
+Directory: /Users/colincasey/Dropbox/Phys 431/431 Labs Online
+	431.Lab.HeatEngine.Online.docx
+	431.Lab.GasProperties.Online.docx
+	431.Lab.MirrorsLenses.Online.docx
+	431.Lab.AlphaBeta.Online.docx
+	431.Lab.PolarizationColorsLight.docx
+	431.Lab.Calorimetry.Online.docx
+	431.Lab.PolarizationColorsLight.Online.docx
+	431.Lab.PropagationofLight.Online.docx
+	431.Lab.InterferenceDiffraction.Online.docx
+Directory: /Users/colincasey/Dropbox/Phys 350/350 Labs Online
+	350.Lab.HeatEngine.Online.docx
+	350.Lab.AngularMomentumTorque.Online.docx
+	350.Lab.ProjectileMotion.Online.docx
+	350.Lab.ForcesEquilibrium.Online.docx
+	350.Lab.EnergyCons.Short.Online.docx
+	350.Lab.1DMotion.Online.docx
+	350.Lab.Equilibrium.Online.docx
+	350.Lab.Calorimetry.Online.docx
+	350.Lab.WavesOnString.Online.docx
+	350.Lab.Momentum.Online.docx
+	350.Lab.EnergyCons.Online.docx
+	350.Lab.MomentumImpulse.Online.docx
+	350.Lab.Friction.InclinedPlane.Online.docx
+	350.Lab.GasProperties.Online.docx
+	350.Lab.MeasurementUncertainty.Online.docx
+	350.Lab.Oscillations.Online.docx
+	350.Lab.Fluids.Online.docx
+Directory: /Users/colincasey/Dropbox/Phys 350/350 Labs rewrite - DO NOT USE
+	350.Lab.ProjectileMotion.docx
+	350.Lab.Equilibrium.docx
+	350.Lab.Equilibrium.SingleSystem.docx
+	350.Lab.MomentumImpulse.docx
+	350.Lab.GasLaws.docx
+	350.Lab.EquilibriumIa.docx
+	350.Lab.Calorimetry.docx
+	350.Lab.MomCons.Prelab.docx
+Directory: /Users/colincasey/Dropbox/Phys 350/350 Labs CC
+	350.Lab.EnergyConservationSpring.CC-3.docx
+	350.Lab.Calorimetry.Short.CC.docx
+	350.Lab.ProjectileMotion.CC.Draftt.docx
+Directory: /Users/colincasey/Dropbox/Phys 350/350 Labs
+	350.Lab.Oscillations.docx
+	350.Lab.EnergyConservationSpring.docx
+	350.Lab.GasLaws.Short.docx
+	350.Lab.MeasurementUncertainty.docx
+	350.Lab.Oscillations.Short.docx
+	350.Lab.Momentum.docx
+	350.Lab.EquilibriumII.docx
+	350.Lab.ForcesEquilibrium.docx
+	350.Lab.GasProperties.docx
+	350.Lab.Friction.docx
+	350.Lab.HarmonicsSound.docx
+	350.Lab.Fluids.docx
+	350.Lab.Sound.docx
+	350.Lab.EquilibriumI.docx
+	350.Lab.AngularMomentumTorque.docx
+	350.Lab.Calorimetry.Short.docx
+	350.Lab.1DMotion.docx
+	350.Lab.StWaves.docx
+	350.Lab.ProjectileMotion.short.docx
+Directory: /Users/colincasey/Dropbox/Phys 360/360 Online Labs
+	360.Lab.PolarizationColorsLight.Online.docx
+	360.Lab.Electrostatics.Online.docx
+	360.Lab.InverseSquareLaw.docx
+	360.Lab.InterferenceDiffraction.Online.docx
+	360.Lab.MagneticField.Online.docx
+	360.Lab.ElectricCircuits.Online.docx
+	360.Lab.MirrorsLenses.Online.docx
+	360.Lab.PropagationofLight.Online.docx
+	360.Lab.EMInduction.Online.Solution.docx
+	360.Lab.AlphaBeta.Online.docx
+	360.Lab.EMInduction.Online.docx
+Directory: /Users/colincasey/Dropbox/Phys 360/360 Labs to rewrite - DO NOT USE
+	360.Lab.EfieldMapping.docx
+	360.Lab11.Telescope.docx
+	360.Lab09.Polarization.docx
+	Polarization Lab Setup Instructions copy.docx
+	360.Lab07.Polarization.docx
+	360.Lab09.Mirrors.Lenses.Addendum.docx
+	360.Lab.Magnetism.Induction.docx
+	360.Lab11.AtomicSpectra.Short.docx
+	360.Lab.Polarization.docx
+Directory: /Users/colincasey/Dropbox/Phys 360/360 Labs Revised
+	360.Lab.Electrostatics.docx
+	360.Lab.EMInduction.docx
+	360.Lab.MagneticFieldForces.docx
+	360.Lab.InverseSquareLaw.docx
+	360.Lab.EmissionSpectra.docx
+	360.Lab.InterferenceDiffraction.docx
+	360.Lab.NuclearDecay.docx
+	360.Lab.ColorsofLight.docx
+	360.Lab.ElectricCircuits.docx
+	360.Lab.AmateurOptometry.docx
+	360.Lab.MirrorsLenses.docx
+	360.Lab.PropagationofLight.docx
+	360.Lab.PropagationofLight.ColorsofLight.docx
+Directory: /Users/colincasey/Dropbox/Phys 421/421 Online labs
+	421.Lab.InductorCircuits.Online.docx
+	421.Lab.EMInduction.Online.docx
+	421.Lab.ACcircuits.Online.docx
+	421.Lab.MagneticField.Online.docx
+	421.Lab.EMInduction.Online.Solution.docx
+	421.Lab.ElectricCircuits.Online.docx
+	421.Lab.InverseSquareLaw.docx
+	421.Lab.RCcircuits.Online.docx
+	421.Lab.Capacitors.Online.docx
+	421.Lab.Electrostatics.Online.docx
+Directory: /Users/colincasey/Dropbox/Phys 421/421 Labs
+	oscilloscope and RC circuit.docx
+	421.Lab.MeasurementUncertainty.docx
+	421.Lab.MagneticFieldForces.docx
+	431.Lab.NuclearDecay.new.docx
+	421.Lab.RCcircuits.docx
+	421.Lab.EMInduction.Modified.docx
+	421.Lab.Capacitors.VirtualLab.docx
+	421.Lab.ElectricCircuits.docx
+	421.Lab.InverseSquareLaw.docx
+	421.Lab.Electrostatics.docx
+	421.Lab.ACcircuits.docx
+	421.Lab04.Capacitors.docx
+	421.Lab.ElectricCircuits1.docx
+	421.Lab09.RLcircuits.docx
+	421.Lab.EfieldMapping.docx
+	421.Lab.RLcircuits.Test.docx
+	421.Lab.EfieldMappingNew.docx
+Directory: /Users/colincasey/Dropbox/Phys 411/411 Labs Revised
+	411.Lab.EnergyConservationSpring.docx
+	411.Lab.AngularMomentumTorque.docx
+	411.Lab.MeasurementUncertainty.docx
+	Elasticity Lab Morris.docx
+	411.Lab.Fluids.Modified.docx
+	411.Lab.Equilibrium.docx
+	411.Lab.EquilibriumI.docx
+	411.Lab.1DMotion.docx
+	Rotational Motion_Moment of Inertia.docx
+	411.Lab.MomCons.Prelab.docx
+	411.Lab.Equilibrium.SingleSystem.docx
+	411.Lab.MomentumImpulse.docx
+	411.Lab.EquilibriumII.docx
+	411.Lab.Fluids.docx
+	411.Lab.Oscillations.Modified.docx
+	411.Lab.Friction.docx
+	411.Lab.EnergyConservation.Spring.Prelab.docx
+	411.Lab.ForcesEquilibrium.docx
+	411.Lab.WavesOnString.Online.docx
+	411.Lab.EquilibriumNew.docx
+	411.Lab.AngularMomentumTorque.Modified.docx
+	411.Lab.ProjectileMotion.docx
+	Lab wk 11 Angular Velocity and Angular Acceleration.docx
+	411.Lab.FluidsII.docx
+	411.Lab.Oscillations.docx
+Directory: /Users/colincasey/Dropbox/Phys 411/411 Labs Online
+	411.Lab.MeasurementUncertainty.Online.docx
+	411.Lab.Friction.InclinedPlane.Online.docx
+	411.Lab.ProjectileMotion.Online.docx
+	411.Lab.EnergyCons.Online.docx
+	411.Lab.ForcesEquilibrium.Online.docx
+	411.Lab.EnergyCons.Short.Online.docx
+	411.Lab.Momentum.Online.docx
+	411.Lab.Equilibrium.Online.docx
+	411.Lab.1DMotion.Online.docx
+	411.Lab.Bouncing.Online.docx
+Directory: /Users/colincasey/Dropbox/Phys 411/411 Labs to sort
+	411.Lab01.1DMotion.docx
+	411.Lab05.EnergyConservation.Spring.docx
+	411.Lab07.EnergyConservation.docx
+	411.Lab12.SHM.StandingWaves.docx
+	411.Lab.AngularMomentumTorque.docx
+	411.Lab04.Friction.InclinedPlane.docx
+	411.Lab10.Equilibrium.docx
+	411.Lab08.MomCons.docx
+	411.Lab10.Equilibrium.Short.docx
+	411.Lab03.ForcesEquilibrium.docx
+	411.Lab.EquilibriumI.docx
+	Impulse.Trial.docx
+	411.UncertaintyActivity.docx
+	411.Lab07.MomCons.Prelab.docx
+	411.Lab.MomCons.Prelab.docx
+	411.Lab02.ProjectileMotion.new.docx
+	411.Lab.EquilibriumII.docx
+	411.Lab11.Fluids.docx
+	411.Lab07.MomentumCollisions.docx
+	ConservationMomentum.Trial.docx
+	411.Lab10.Equilibrium.Prelab.docx
+	3411.Lab10.Equilibrium.Short.docx
